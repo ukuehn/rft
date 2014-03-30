@@ -1,0 +1,9 @@
+
+
+rft 0.1
+
+	First version for fiddling with reports, mostly in CSV format, but
+	also a patch report in XML format. Interal structure is such that
+	it is easy to build in new reports.
+
+	-- Ulrich Kuehn <ukuehn@acm.org> 2014-03-29
