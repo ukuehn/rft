@@ -10,7 +10,7 @@
     <mkdir dir="build"/>
     <native2ascii
 	  encoding="UTF-8"
-	  src="src"
+	  src="src/main/java"
 	  dest="build"
 	  includes="**/*.properties"/>
 -->
@@ -22,7 +22,7 @@
       target="1.5"
       source="1.5"
       deprecation="on"
-      srcdir="src"
+      srcdir="src/main/java"
       destdir="build"
       />
   </target>
